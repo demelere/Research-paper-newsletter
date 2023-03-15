@@ -1,2 +1,2 @@
 ### Intro
-This is a newsletter script that uses Python, GPT, and the Gmail API to parse a directory of academic research PDFs, summarize the main points and conclusions, and sends myself a newsletter with a roundup of 5 each day.  
+This is an app that takes a personal repository of academic research papers (PDFs), and sends an email roundup of the main points, findings, and conclusions to the user using Python, OpenAI GPT, the Gmail API, and PyPDF2.
